@@ -1,0 +1,20 @@
+h1 {
+    font-style: oblique;
+    font-size: large;
+    color: blue;
+
+}
+p {
+    font-size: medium;
+    font-style: italic;
+}
+table, th, td {
+    border: 1px solid black;
+    border-style:dashed;
+  }
+a {
+    text-decoration: none;
+}
+ul {
+    list-style-type: square;
+  }
